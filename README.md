@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech2etc" target="blank"><img src="https://img.shields.io/twitter/follow/tech2etc?logo=twitter&style=for-the-badge" alt="tech2etc" /></a> </p>
 
-- 🔭 I’m currently working on ([JSTACK Job Portal](https://www.youtube.com/playlist?list=PL9bD98LkBR7M9FKAmBjiB-0WMkdgUBJVG](https://www.youtube.com/playlist?list=PL9bD98LkBR7M9FKAmBjiB-0WMkdgUBJVG))
+- 🔭 I’m currently working on [JSTACK Job Portal](https://www.youtube.com/playlist?list=PL9bD98LkBR7M9FKAmBjiB-0WMkdgUBJVG)
 
 - 🌱 I’m currently learning **AI, ML, React, Redux, Typescript, Next, MongoDB etc**
 
