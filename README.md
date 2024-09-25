@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C programming, Python etc**
 
-- 📫 How to reach me **fahimulkabir@ieee.org**
+- 📫 How to reach me **info@tech2etc.com**
 
 - 📄 Know about my experiences [here](https://www.youtube.com/@Tech2etc/)
 
